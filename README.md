@@ -1,1 +1,1 @@
-# ips-CSR-Hands-On---Mirror-GitHub-and-Cross-Project-Access
+demonstration of one way sync
